@@ -6,7 +6,7 @@ namespace Z
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Всем привет!");
         }
     }
 }
