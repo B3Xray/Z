@@ -6,7 +6,13 @@ namespace Z
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Всем привет!");
+||||||| e69ea7c
+            Console.WriteLine("Hello World!");
+=======
+            Console.WriteLine("Очередные изменения :)");
+>>>>>>> NewBranch
         }
     }
 }
