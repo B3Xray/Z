@@ -6,7 +6,7 @@ namespace Z
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Изменение кода для двух участников в одном файле!");
+            Console.WriteLine("Очередные изменения :)");
         }
     }
 }
